@@ -29,3 +29,12 @@ How to run
 Open vs code and run the below commands
 Step 1: pip install -r requirements.txt
 Step 2: python maintest.py
+
+📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/Frontend.jpeg)
+
+
+### 📝 Logs Screen
+![Logs Screen](screenshots/Incidentlogs.jpeg)
