@@ -24,3 +24,8 @@ An integrated Kivy-based desktop application that detects violence and unattende
 - Kivy (for desktop GUI)
 - OpenCV
 
+
+How to run 
+
+Step 1: pip install -r requirements.txt
+Step 2: python maintest.py
